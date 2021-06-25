@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ScheduleXamarin"
+             xmlns:schedule="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms" xmlns:local1="clr-namespace:ScheduleXamarin.View"
+            x:Class="ScheduleXamarin.MainPage">
+
+    <local1:DefaultTheme Title="DefaultTheme"></local1:DefaultTheme>
+    <local1:CustomizedTheme Title="CustomizedTheme"></local1:CustomizedTheme>
+
+</TabbedPage>
